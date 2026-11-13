@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Rameez 👋
 
-<!--
-**muhammadrameez6/muhammadrameez6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MERN Stack Developer
 
-Here are some ideas to get you started:
+I'm a Software Engineering student passionate about building modern and responsive web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Skills & Technologies
+- HTML, CSS, JavaScript
+- React.js
+- Node.js
+- Express.js
+- Postgresql
+- Git & GitHub
+
+### 🚀 Currently Working On
+- Full Stack MERN Applications
+- REST APIs
+- Authentication Systems
+
+### 🎯 My Goal
+To become a professional Full Stack Developer
+and build useful real-world applications.
+
+### 📫 Connect With Me
+- GitHub: [My GitHub](https://github.com/muhammadrameez6)
+-
